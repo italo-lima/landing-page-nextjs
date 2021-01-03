@@ -1,15 +1,15 @@
 # Simple NextJS Quick Start
 
-A simple project starter to work with React, NextJS and Styled Components
+PROJECT DEVELOPED WITH NEXTJS + STYLED COMPONENTS + STORYBOOK + API STRAPI
 
-You can see the example in [https://nextjs-quickstart.now.sh/](https://nextjs-quickstart.now.sh/)
+[LINK API STRAPI THIS PROJECT](WWW.GOOGLE.COM.BR)
 
 ### 📦 Install
 
 ```
-$ git clone https://github.com/guilouro/simple-nextjs-quick-start.git
+$ git clone this repo
 
-$ yarn install
+$ yarn
 ```
 
 ### 🔨 How to use
@@ -30,10 +30,4 @@ Runs next start which starts a Next.js production server
 
 ```bash
 $ yarn start
-```
-
-Runs next build and export which exports a files in a `out` folder to deploy
-
-```bash
-$ yarn deploy
 ```
